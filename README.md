@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=MarkossCod&style=flat-square&color=2F81F7&label=Visitas+no+perfil" alt="Visitas no perfil">
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/MarkossCod" alt="Gráfico de contribuições" width="100%">
+</p>
+
 ---
 
 ## 👋 Sobre mim
@@ -69,7 +73,7 @@ Trabalho principalmente com **desenvolvimento web em Laravel** e com **sistemas 
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[ThermoPredict System](https://github.com/MarkossCod/ThermoPredict-System)** | TCC — monitoramento e predição de temperatura em tempo real, do sensor ao dashboard | Arduino · Python · Laravel |
+| **[ThermoPredict System](https://github.com/MarkossCod/ThermoPredict-System)** | Projeto de conclusão de curso — monitoramento e predição de temperatura em tempo real, do sensor ao dashboard | Arduino · Python · Laravel |
 | **[AlvoFlow](https://github.com/MarkossCod/AlvoFlow-System)** | Gestão de pedidos e publicações: autenticação própria, calendário com exportação `.ics`, painel com gráficos e relatório em PDF | Laravel 11 · Inertia · Vue 3 · MySQL |
 | **[Notes System](https://github.com/MarkossCod/Notes_Sytem)** | Aplicação de notas com categorias, busca e interface responsiva, em produção via Docker | Laravel · Blade · MySQL · Docker |
 | **[Explore Japão](https://github.com/MarkossCod/Explore_Japao)** | Guia acadêmico de viagem e cultura japonesa, com roteiros e dicas práticas | HTML · CSS · JavaScript |
@@ -84,10 +88,6 @@ Trabalho principalmente com **desenvolvimento web em Laravel** e com **sistemas 
   <img src="https://img.shields.io/github/followers/MarkossCod?style=flat-square&color=2F81F7&label=Seguidores" alt="Seguidores">
   <img src="https://img.shields.io/github/stars/MarkossCod?affiliations=OWNER&style=flat-square&color=2F81F7&label=Estrelas" alt="Estrelas">
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-30%2B-2F81F7?style=flat-square" alt="Repositórios">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarkossCod&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=808080&stroke=808080&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
 ---
