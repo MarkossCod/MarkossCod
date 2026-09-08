@@ -1,7 +1,7 @@
 <h1 align="center">Markos Samuell</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack em formação</strong> · Laravel · Vue · IoT<br>
+  <strong>Desenvolvedor Full Stack</strong> · Laravel · Vue · IoT<br>
   Minas Gerais, Brasil
 </p>
 
@@ -15,17 +15,21 @@
   <img src="https://komarev.com/ghpvc/?username=MarkossCod&style=flat-square&color=2F81F7&label=Visitas+no+perfil" alt="Visitas no perfil">
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/MarkossCod" alt="Gráfico de contribuições" width="100%">
+</p>
+
 ---
 
 ## 👋 Sobre mim
 
-Estudante de Tecnologia da Informação no **SENAI CTTI-MG** e estagiário de TI na **Cabtec by Kyubi**, onde atuo como programador.
+Formado em Tecnologia da Informação pelo **SENAI CTTI-MG** e atuando no setor de TI da **Cabtec by Kyubi** como programador.
 
 Trabalho principalmente com **desenvolvimento web em Laravel** e com **sistemas IoT** — da leitura do sensor no microcontrolador até o dashboard em produção. Gosto de projetos que saem do "funciona na minha máquina": containerizados, com banco em nuvem e deploy automatizado.
 
-- 🔭 Atualmente desenvolvendo o **ThermoPredict**, meu TCC de monitoramento e predição de temperatura com ESP32/Arduino + Laravel
+- 🔭 Projeto de conclusão de curso: **ThermoPredict**, monitoramento e predição de temperatura com ESP32/Arduino + Laravel
 - 🌱 Aprofundando em **arquitetura de aplicações Laravel**, Docker e integração de dispositivos via MQTT
-- 🎯 Também atuo como **Scrum Master** em projetos acadêmicos em equipe
+- 🎯 Experiência como **Scrum Master** em projetos em equipe
 - 💬 Fale comigo sobre Laravel, Blade, Vue, MySQL, Docker, ESP32 e Arduino
 
 ---
@@ -99,13 +103,13 @@ Trabalho principalmente com **desenvolvimento web em Laravel** e com **sistemas 
 
 ## 👋 About me
 
-I'm an IT student at **SENAI CTTI-MG** and an IT intern at **Cabtec by Kyubi**, working as a developer.
+I'm an IT graduate from **SENAI CTTI-MG**, now working in the IT department at **Cabtec by Kyubi** as a developer.
 
 I focus on **Laravel web development** and **IoT systems** — from the sensor reading on the microcontroller all the way to a dashboard running in production. I like projects that go beyond "works on my machine": containerized, cloud database, automated deploy.
 
-- 🔭 Currently building **ThermoPredict**, my final-year project on temperature monitoring and prediction with ESP32/Arduino + Laravel
+- 🔭 Final-year project: **ThermoPredict**, temperature monitoring and prediction with ESP32/Arduino + Laravel
 - 🌱 Going deeper into **Laravel application architecture**, Docker and device integration over MQTT
-- 🎯 Also acting as **Scrum Master** on team academic projects
+- 🎯 Experience as **Scrum Master** on team projects
 - 💬 Ask me about Laravel, Blade, Vue, MySQL, Docker, ESP32 and Arduino
 
 ## 🛠 Tech stack
