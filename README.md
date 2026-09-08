@@ -15,10 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=MarkossCod&style=flat-square&color=2F81F7&label=Visitas+no+perfil" alt="Visitas no perfil">
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2F81F7/MarkossCod" alt="Gráfico de contribuições" width="100%">
-</p>
-
 ---
 
 ## 👋 Sobre mim
