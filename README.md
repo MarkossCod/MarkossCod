@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2DA44E/MarkossCod" alt="Gráfico de contribuições" width="100%">
+  <img src="https://raw.githubusercontent.com/MarkossCod/MarkossCod/main/assets/contribuicoes.svg" alt="Gráfico de contribuições" width="100%">
 </p>
 
 ---
