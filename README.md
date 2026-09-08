@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarkossCod/MarkossCod/main/assets/contribuicoes.svg" alt="Gráfico de contribuições" width="100%">
+  <img src="https://raw.githubusercontent.com/MarkossCod/MarkossCod/main/assets/contribuicoes.svg?v=2" alt="Gráfico de contribuições" width="100%">
 </p>
 
 ---
