@@ -81,8 +81,9 @@ Trabalho principalmente com **desenvolvimento web em Laravel** e com **sistemas 
 ## 📊 GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarkossCod&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=808080&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkossCod&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=808080&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://img.shields.io/github/followers/MarkossCod?style=flat-square&color=2F81F7&label=Seguidores" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/MarkossCod?affiliations=OWNER&style=flat-square&color=2F81F7&label=Estrelas" alt="Estrelas">
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-30%2B-2F81F7?style=flat-square" alt="Repositórios">
 </p>
 
 <p align="center">
